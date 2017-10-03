@@ -1,2 +1,0 @@
-# schoolproject
-School Project
